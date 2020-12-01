@@ -1,0 +1,32 @@
+- filename: 20StepsRightBackPocket.csv
+- steps: 100
+- phone_model: iPhone 6s Plus
+- subject_age: 15
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: right_rear_pocket
+- data_log_freq: 100
+- collection_supervisor: Alejandro
+- date: 7/6/16
+***********************************
+- filename: 20StepsLeftHand.csv
+- steps: 102
+- phone_model: iPhone 6s Plus
+- subject_age: 15
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: Left_hand
+- data_log_freq: 100
+- collection_supervisor: Alejandro
+- date: 7/6/16
+***********************************
+- filename: 20StepsRightAnkle.csv
+- steps: 20
+- phone_model: iPhone 6s Plus
+- subject_age: 15
+- subject_gender: M
+- gait: comfortable_walk
+- phone_location: dominant_ankle
+- data_log_freq: 100
+- collection_supervisor: Alejandro
+- date: 7/6/16

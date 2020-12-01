@@ -1,0 +1,98 @@
+- filename: Comfortable_Walking_Trial_One.csv
+- steps: 51
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: comfortable_walk
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Comfortable_Walking_Trial_Two.csv
+- steps: 51
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: comfortable_walk
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Comfortable_Walking_Trial_Three.csv
+- steps: 50
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: comfortable_walk
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Slow_Walking.csv
+- steps: 50
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: slow_walk
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Fast_Walking.csv
+- steps: 50
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: fast_walk
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Jogging.csv
+- steps: 51
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: jog
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Sprinting.csv
+- steps: 53
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: sprint
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Climbing_Stairs.csv
+- steps: 50
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: stairs
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16
+***********************************
+- filename: Free_Condition.csv
+- steps: 50
+- phone_model: iPhone 6
+- subject_age: 16
+- subject_gender: F
+- gait: no_instructions
+- phone_location: right_ankle
+- data_log_freq: 100
+- collection_supervisor: Neha and Arunima
+- date: 11/4/16

@@ -1,0 +1,21 @@
+- filename: 64StepsInHandJogging-out.csv
+- steps: 64
+- phone_model: Samsung Galaxy 6
+- subject_age: 36
+- subject_gender: M
+- gait: jogging
+- phone_location: right_hand
+- data_log_freq: 100
+- collection_supervisor: Dobervich
+- date: ???
+***********************************
+- filename: 64StepsInPocketJogging-out.csv
+- steps: 64
+- phone_model: Samsung Galaxy 6
+- subject_age: 36
+- subject_gender: M
+- gait: jogging
+- phone_location: right_front_pocket
+- data_log_freq: 100
+- collection_supervisor: Dobervich
+- date: ???
